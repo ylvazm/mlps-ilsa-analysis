@@ -1,4 +1,4 @@
-# TITLE
+# Treating Item Omissions with Modified Laplace Smoothing 
 
 > Master's Thesis | Universitetet i Oslo | 2026  
 > Author: Ylva Zoe Matejko
