@@ -141,7 +141,7 @@ Matejko, Y. Z. (2026). Mlps-ilsa-analysis [R]. https://github.com/ylvazm/UiO-The
 
 ## License
 
-[Choose one, e.g. MIT / CC BY 4.0 / or leave as "All rights reserved"]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
