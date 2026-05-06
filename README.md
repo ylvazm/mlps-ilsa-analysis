@@ -1,5 +1,6 @@
-# Treating Item Omissions with Modified Laplace Smoothing 
+# Analysis Code for Treating Item Omissions with Modified Laplace Smoothing 
 
+> Treating Item Omissions with a Modified Laplace Smoothing Approach: Consequences for Country-Level Conclusions in International Large-Scale Assessments
 > Master's Thesis | Universitetet i Oslo | 2026  
 > Author: Ylva Zoe Matejko
 
@@ -7,9 +8,9 @@
 
 ## Overview
 
-This repository contains the R code and raw data used for the empirical analyses in my master's thesis on **TITLE**, using and examplary **TIMSS 2023** dataset.
+This repository contains the R code and raw data used for the empirical analyses in my master's thesis **Treating Item Omissions with a Modified Laplace Smoothing Approach: Consequences for Country-Level Conclusions in International Large-Scale Assessments**, using and examplary **TIMSS 2023** dataset.
 
-The analyses examine ... [maybe one or two sentences from my abstract]
+In the thesis, I investigated to what extent a recently proposed approach for handling item omissions in ILSA affects the conclusions drawn from the assessment, compared to two classical approaches. To this end, I reanalysed a TIMSS 2023 subset encompassing achievement data of 43 countries under three treatments: (1) Treating omissions as not administered; (2) Scoring them as incorrect; and (3) Modified Laplace Smoothing.
 
 ---
 
@@ -134,7 +135,7 @@ The scripts are designed to be executed **in the following order**:
 
 If you use this code, please cite the thesis as:
 
-[Your Name] ([Year]). *Item Omission Treatments in ILSAs: A TIMSS Case Study*. Master's Thesis, [University Name].
+Matejko, Y. Z. (2026). Mlps-ilsa-analysis [R]. https://github.com/ylvazm/UiO-Thesis
 
 ---
 
